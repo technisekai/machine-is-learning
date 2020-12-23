@@ -10,4 +10,4 @@
 
 
 ## Caranya Menggunakan
-Cukup buka notebook anda (disarankan memakai google colab dan entah untuk jupyter notebook) dan import saja projectnya. 
+Cukup buka notebook anda (disarankan memakai google colab) dan import saja projectnya. 
