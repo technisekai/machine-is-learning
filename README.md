@@ -4,7 +4,6 @@
 
 
 ## Overview
-- NLP
 - Image Classification
 - Time Series
 
