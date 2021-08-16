@@ -3,7 +3,7 @@
 </p>
 
 ### :notebook_with_decorative_cover: Description
-A notebook about time series that use avocado price and chicago weather dataset and image classifications that use cats and dogs dataset with transfer learning.
+A jupyter/google colab notebook about time series and image classification
 
 ### 📓 Note
 Dataset will be updated as soon as possible
